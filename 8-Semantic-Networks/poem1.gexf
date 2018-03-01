@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>27/02/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="生命" label="生命" />
+      <node id="地球" label="地球" />
+      <node id="似的" label="似的" />
+      <node id="于是" label="于是" />
+      <node id="就是" label="就是" />
+      <node id="一样" label="一样" />
+      <node id="宇宙" label="宇宙" />
+      <node id="什么" label="什么" />
+      <node id="现在" label="现在" />
+      <node id="人间" label="人间" />
+      <node id="知道" label="知道" />
+      <node id="一尺" label="一尺" />
+      <node id="没有" label="没有" />
+      <node id="一个" label="一个" />
+      <node id="咱们" label="咱们" />
+      <node id="一声" label="一声" />
+      <node id="自己" label="自己" />
+      <node id="我要" label="我要" />
+      <node id="晨安" label="晨安" />
+      <node id="他们" label="他们" />
+      <node id="飞扬" label="飞扬" />
+      <node id="天上" label="天上" />
+      <node id="看见" label="看见" />
+      <node id="起来" label="起来" />
+      <node id="然而" label="然而" />
+      <node id="黑暗" label="黑暗" />
+      <node id="你们" label="你们" />
+      <node id="便是" label="便是" />
+      <node id="青春" label="青春" />
+      <node id="人类" label="人类" />
+      <node id="还是" label="还是" />
+      <node id="还有" label="还有" />
+      <node id="朋友" label="朋友" />
+      <node id="欢唱" label="欢唱" />
+      <node id="一切" label="一切" />
+      <node id="但是" label="但是" />
+      <node id="不能" label="不能" />
+      <node id="而且" label="而且" />
+      <node id="人们" label="人们" />
+      <node id="欢喜" label="欢喜" />
+      <node id="太阳" label="太阳" />
+      <node id="灵魂" label="灵魂" />
+      <node id="不是" label="不是" />
+      <node id="这是" label="这是" />
+      <node id="希望" label="希望" />
+      <node id="为什么" label="为什么" />
+      <node id="凤凰" label="凤凰" />
+      <node id="只是" label="只是" />
+      <node id="孩子" label="孩子" />
+      <node id="母亲" label="母亲" />
+      <node id="光明" label="光明" />
+      <node id="永远" label="永远" />
+      <node id="我们" label="我们" />
+      <node id="地狱" label="地狱" />
+      <node id="悲哀" label="悲哀" />
+      <node id="时候" label="时候" />
+      <node id="世界" label="世界" />
+      <node id="那里" label="那里" />
+      <node id="可怜" label="可怜" />
+      <node id="敲冰" label="敲冰" />
+    </nodes>
+    <edges>
+      <edge id="0" source="生命" target="我们" weight="2331.0" />
+      <edge id="1" source="地球" target="一个" weight="1682.0" />
+      <edge id="2" source="地球" target="他们" weight="1508.0" />
+      <edge id="3" source="地球" target="便是" weight="1305.0" />
+      <edge id="4" source="地球" target="一切" weight="1392.0" />
+      <edge id="5" source="地球" target="我们" weight="3219.0" />
+      <edge id="6" source="似的" target="一个" weight="1508.0" />
+      <edge id="7" source="似的" target="他们" weight="1352.0" />
+      <edge id="8" source="似的" target="我们" weight="2886.0" />
+      <edge id="9" source="于是" target="我们" weight="1443.0" />
+      <edge id="10" source="就是" target="我们" weight="1332.0" />
+      <edge id="11" source="一样" target="我们" weight="1998.0" />
+      <edge id="12" source="宇宙" target="我们" weight="1332.0" />
+      <edge id="13" source="什么" target="一个" weight="1566.0" />
+      <edge id="14" source="什么" target="他们" weight="1404.0" />
+      <edge id="15" source="什么" target="一切" weight="1296.0" />
+      <edge id="16" source="什么" target="我们" weight="2997.0" />
+      <edge id="17" source="现在" target="我们" weight="1443.0" />
+      <edge id="18" source="人间" target="我们" weight="1998.0" />
+      <edge id="19" source="知道" target="知道" weight="1332.0" />
+      <edge id="20" source="知道" target="没有" weight="1443.0" />
+      <edge id="21" source="知道" target="一个" weight="2146.0" />
+      <edge id="22" source="知道" target="他们" weight="1924.0" />
+      <edge id="23" source="知道" target="便是" weight="1665.0" />
+      <edge id="24" source="知道" target="一切" weight="1776.0" />
+      <edge id="25" source="知道" target="我们" weight="4107.0" />
+      <edge id="26" source="一尺" target="我们" weight="1332.0" />
+      <edge id="27" source="没有" target="没有" weight="1482.0" />
+      <edge id="28" source="没有" target="一个" weight="2262.0" />
+      <edge id="29" source="没有" target="他们" weight="2028.0" />
+      <edge id="30" source="没有" target="便是" weight="1755.0" />
+      <edge id="31" source="没有" target="一切" weight="1872.0" />
+      <edge id="32" source="没有" target="我们" weight="4329.0" />
+      <edge id="33" source="一个" target="一个" weight="3306.0" />
+      <edge id="34" source="一个" target="晨安" weight="1566.0" />
+      <edge id="35" source="一个" target="他们" weight="3016.0" />
+      <edge id="36" source="一个" target="然而" weight="1856.0" />
+      <edge id="37" source="一个" target="你们" weight="1392.0" />
+      <edge id="38" source="一个" target="便是" weight="2610.0" />
+      <edge id="39" source="一个" target="欢唱" weight="1450.0" />
+      <edge id="40" source="一个" target="一切" weight="2784.0" />
+      <edge id="41" source="一个" target="不能" weight="1624.0" />
+      <edge id="42" source="一个" target="只是" weight="1392.0" />
+      <edge id="43" source="一个" target="母亲" weight="1450.0" />
+      <edge id="44" source="一个" target="我们" weight="6438.0" />
+      <edge id="45" source="咱们" target="我们" weight="2109.0" />
+      <edge id="46" source="一声" target="我们" weight="1332.0" />
+      <edge id="47" source="自己" target="我们" weight="2331.0" />
+      <edge id="48" source="我要" target="我们" weight="1887.0" />
+      <edge id="49" source="晨安" target="他们" weight="1404.0" />
+      <edge id="50" source="晨安" target="一切" weight="1296.0" />
+      <edge id="51" source="晨安" target="我们" weight="2997.0" />
+      <edge id="52" source="他们" target="他们" weight="2652.0" />
+      <edge id="53" source="他们" target="然而" weight="1664.0" />
+      <edge id="54" source="他们" target="便是" weight="2340.0" />
+      <edge id="55" source="他们" target="欢唱" weight="1300.0" />
+      <edge id="56" source="他们" target="一切" weight="2496.0" />
+      <edge id="57" source="他们" target="不能" weight="1456.0" />
+      <edge id="58" source="他们" target="母亲" weight="1300.0" />
+      <edge id="59" source="他们" target="我们" weight="5772.0" />
+      <edge id="60" source="飞扬" target="我们" weight="1332.0" />
+      <edge id="61" source="天上" target="我们" weight="1998.0" />
+      <edge id="62" source="看见" target="我们" weight="1887.0" />
+      <edge id="63" source="起来" target="我们" weight="1665.0" />
+      <edge id="64" source="然而" target="便是" weight="1440.0" />
+      <edge id="65" source="然而" target="一切" weight="1536.0" />
+      <edge id="66" source="然而" target="我们" weight="3552.0" />
+      <edge id="67" source="黑暗" target="我们" weight="1665.0" />
+      <edge id="68" source="你们" target="我们" weight="2664.0" />
+      <edge id="69" source="便是" target="便是" weight="1980.0" />
+      <edge id="70" source="便是" target="一切" weight="2160.0" />
+      <edge id="71" source="便是" target="不能" weight="1260.0" />
+      <edge id="72" source="便是" target="我们" weight="4995.0" />
+      <edge id="73" source="青春" target="我们" weight="1443.0" />
+      <edge id="74" source="人类" target="我们" weight="1665.0" />
+      <edge id="75" source="还是" target="我们" weight="1998.0" />
+      <edge id="76" source="还有" target="我们" weight="1332.0" />
+      <edge id="77" source="朋友" target="我们" weight="2109.0" />
+      <edge id="78" source="欢唱" target="我们" weight="2775.0" />
+      <edge id="79" source="一切" target="一切" weight="2256.0" />
+      <edge id="80" source="一切" target="不能" weight="1344.0" />
+      <edge id="81" source="一切" target="我们" weight="5328.0" />
+      <edge id="82" source="但是" target="我们" weight="1554.0" />
+      <edge id="83" source="不能" target="我们" weight="3108.0" />
+      <edge id="84" source="而且" target="我们" weight="1554.0" />
+      <edge id="85" source="人们" target="我们" weight="1332.0" />
+      <edge id="86" source="欢喜" target="我们" weight="1554.0" />
+      <edge id="87" source="太阳" target="我们" weight="2109.0" />
+      <edge id="88" source="灵魂" target="我们" weight="1443.0" />
+      <edge id="89" source="不是" target="我们" weight="1998.0" />
+      <edge id="90" source="这是" target="我们" weight="1665.0" />
+      <edge id="91" source="希望" target="我们" weight="1776.0" />
+      <edge id="92" source="为什么" target="我们" weight="1554.0" />
+      <edge id="93" source="凤凰" target="我们" weight="1998.0" />
+      <edge id="94" source="只是" target="我们" weight="2664.0" />
+      <edge id="95" source="孩子" target="我们" weight="1998.0" />
+      <edge id="96" source="母亲" target="我们" weight="2775.0" />
+      <edge id="97" source="光明" target="我们" weight="1332.0" />
+      <edge id="98" source="永远" target="我们" weight="1887.0" />
+      <edge id="99" source="我们" target="我们" weight="12210.0" />
+      <edge id="100" source="我们" target="地狱" weight="1776.0" />
+      <edge id="101" source="我们" target="悲哀" weight="1776.0" />
+      <edge id="102" source="我们" target="时候" weight="1887.0" />
+      <edge id="103" source="我们" target="世界" weight="1443.0" />
+      <edge id="104" source="我们" target="那里" weight="1332.0" />
+      <edge id="105" source="我们" target="可怜" weight="1443.0" />
+      <edge id="106" source="我们" target="敲冰" weight="1554.0" />
+    </edges>
+  </graph>
+</gexf>
